@@ -27,7 +27,7 @@
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatender-khatri&show_icons=true&locale=en&layout=compact" alt="jatender-khatri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatender-khatri&show_icons=true&locale=en&layout=compact" alt="jatender-khatri" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatender-khatri&show_icons=true&locale=en" alt="jatender-khatri" /></p>
 
